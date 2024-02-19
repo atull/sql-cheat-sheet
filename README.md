@@ -9,3 +9,9 @@ DDL (Data Definition Language)
 - DROP
 - RENAME
 - TRUNCATE
+
+DML (Data Manipulation Language)
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
